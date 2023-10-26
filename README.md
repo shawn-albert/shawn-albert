@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shawn-albert
 - 👀 I’m interested in data science within health care
-- 🌱 I’m currently learning TensorFlow for NLP and image recognition
-- 💞️ I’m looking to collaborate on digital health new ventures
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/shawnalbert/)
 
 <!---
