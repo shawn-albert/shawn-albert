@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shawn-albert&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Shawn's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawn-albert&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shawn-albert&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Shawn's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawn-albert&layout=compact&langs_count=7&theme=radical&hide=Jupyter%20Notebook"/>
 </div>
 
 ## 👨🏾‍💻 About Me 
@@ -106,11 +106,11 @@
 ---
 ### 📈 Recent Focus Areas 
 <p align="left">
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejkyaXU1OTYyMW8yb3U3b3p3azVpaGp2ejhvM2V6YnMzOTQ3eDE4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/nanApWpwTQGmUF5kDE/giphy.webp" width="300" style="margin-left: 40px; position: relative; top: 50%; transform: translateY(-50%);" alt="MLOps GIF"/>
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejkyaXU1OTYyMW8yb3U3b3p3azVpaGp2ejhvM2V6YnMzOTQ3eDE4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/nanApWpwTQGmUF5kDE/giphy.webp" width="200" style="margin-left: 40px; position: relative; top: 50%; transform: translateY(-50%);" alt="MLOps GIF"/>
 
 - Large Language Models & AI Agents
 - Causal Inference
-- Modern Data Platforms
+- Cloud Architecture & Data Platforms
 - Machine Learning Operations (MLOps)
 </p>
 
@@ -121,6 +121,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Professional Portfolio](https://github.com/shawn-albert/portfolio) | Modern portfolio featuring server-side rendering and motion effects | Next.js 14, TypeScript, shadcn/ui |
+| [Code Context Consolidator](https://gist.github.com/shawn-albert/6352144b03e4650916d2fcbac25aa533) | Python script that consolidates code files into a single text file for LLM context | Python, Typer, uv |
 
 ---
 ## 📚 Latest Blog Posts
